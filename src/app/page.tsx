@@ -8,7 +8,7 @@ export default function Home() {
 			<main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
 				<Hero />
 			</main>
-			<footer className="px-0 py-5 text-center z-50 sticky -m-28 w-full ">
+			<footer className="px-0 py-5 text-center z-50 sticky -m-28 w-fullx">
 				<div className="flex gap-5 justify-center">
 					<ExternalLink
 						href="https://wa.me/message/S34MCDTW3AQXI1"

@@ -88,11 +88,11 @@ const Hero = () => {
 			))}
 
 			<div className="absolute z-50 my-auto flex flex-col gap-3 items-center justify-center text-center p-1 w-full h-full">
-				<h1 className="text-white text-2xl md:text-5xl lg:text-7xl font-medium md:font-normal animate-fade animate-duration-[2500ms] animate-delay-200">
+				<h1 className="text-white text-[2.125rem] md:text-5xl lg:text-7xl font-medium md:font-normal animate-fade animate-duration-[2500ms] animate-delay-200">
 					LAGO MORENO ZEN
 				</h1>
 				<div className="animate-fade-up animate-duration-[1500ms] animate-delay-300">
-					<h2 className="text-white/90 text-sm md:text-xl max-w-2xl mx-auto mb-8">
+					<h2 className="text-white/90 text-md md:text-xl max-w-2xl mx-auto mb-8">
 						Alquileres turísticos en Bariloche, Argentina
 					</h2>
 					<p>PRÓXIMAMENTE</p>

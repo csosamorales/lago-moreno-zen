@@ -61,7 +61,7 @@ const Hero = () => {
 						fill
 						src={slide.image}
 						alt={slide.title}
-						className="hero-slide-image"
+						className="hero-slide-image object-cover object-center w-full h-full"
 					/>
 					<div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
 

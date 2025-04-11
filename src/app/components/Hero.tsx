@@ -88,7 +88,7 @@ const Hero = () => {
 			))}
 
 			<div className="absolute z-50 my-auto flex flex-col gap-3 items-center justify-center text-center p-1 w-full h-full">
-				<h1 className="text-white text-2xl md:text-5xl lg:text-7xl font-medium md:font-normal animate-fade animate-duration-[1500ms] animate-delay-200">
+				<h1 className="text-white text-2xl md:text-5xl lg:text-7xl font-medium md:font-normal animate-fade animate-duration-[2500ms] animate-delay-200">
 					LAGO MORENO ZEN
 				</h1>
 				<div className="animate-fade-up animate-duration-[1500ms] animate-delay-300">
